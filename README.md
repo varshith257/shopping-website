@@ -29,7 +29,8 @@
 
 # Screenshots
 
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/homepage.png)
+![Image of webite](![homepage](https://github.com/varshith257/shopping-website/assets/117595548/c2050a27-1ddd-4541-a407-0d82f4e060ab)
+
 
 
 
